@@ -65,9 +65,6 @@ const Router =  () => {
                     <OwnExerciseDetailWrapper/>
                 }/>
                 }
-
-
-
                 {/*Favorites Routing*/}
 
                <Route path="/Favorites"

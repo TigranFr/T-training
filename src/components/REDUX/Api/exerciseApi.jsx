@@ -2,6 +2,7 @@ import { api } from "./api";
 
 export const exerciseApi = api.injectEndpoints({
   endpoints: (builder) => ({
+    
     createExercise: builder.mutation({
       query: (exercise) => ({
         method: 'POST',

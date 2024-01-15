@@ -2,6 +2,7 @@ import { apiFavorites } from "./apiFavorites";
 
 export const favoritesApi = apiFavorites.injectEndpoints({
     endpoints : (builder) => ({
+
         addFavorites: builder.mutation({
             query: (exercise) => ({
               method: 'POST',
@@ -10,6 +11,7 @@ export const favoritesApi = apiFavorites.injectEndpoints({
             }),
           invalidatesTags: ['Favorites'],
           }),
+          
         deleteFavorites : builder.mutation({
             query: (favoriteID ) => ({
                 method : 'DELETE',

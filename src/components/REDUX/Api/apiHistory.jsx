@@ -1,5 +1,7 @@
 import { createApi, fetchBaseQuery } from "@reduxjs/toolkit/dist/query/react";
-const API_URL = 'http://localhost:4300'
+
+const API_URL = 'http://localhost:4100'
+
 export const apiHistory = createApi({
     reducerPath: 'apiHistory',
     tagTypes: ['History'],
@@ -7,6 +9,7 @@ export const apiHistory = createApi({
         baseUrl: API_URL,
     }),
     endpoints: (builder) => ({
+
         getHistory: builder.query({
             query: () => '/History',
             providesTags: () => [
@@ -15,6 +18,7 @@ export const apiHistory = createApi({
                 }
             ],
         }),
+
         addToHistory: builder.mutation({
           query: (item) => ({
             url : '/History',
@@ -23,6 +27,7 @@ export const apiHistory = createApi({
           }),
           invalidatesTags: ['History'],
         }),
+
         deleteFromHistory : builder.mutation({
             query:(itemID) => ({
                 url: `/History/${itemID}`,
