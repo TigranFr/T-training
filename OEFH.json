@@ -1,0 +1,119 @@
+{
+  "Exercises": [
+    {
+      "name": "Indian push ups",
+      "count": 20,
+      "exactMuscle": "Chest / Triceps / Shoulders",
+      "image": "",
+      "difficulty": "intermediate",
+      "musclePart": "Chest",
+      "instruction": "Indian push up is the best exercise for growing chest and shoulders muscles . It is also effect on triceps.",
+      "id": 78,
+      "route": "profile",
+      "status": "own"
+    }
+  ],
+  "Favorites": [
+    {
+      "id": 54,
+      "name": "Hand rotation",
+      "time": "30s",
+      "difficulty": "beginner",
+      "musclePart": "Biceps",
+      "exactMuscle": "Shoulders / Chest",
+      "instruction": "Stand on the floor, stretch your arms at shoulder level, raise your arms above your head and return to the old position again",
+      "route": "BicepsBeginner",
+      "image": "/images/Hand-rotation.jpg"
+    },
+    {
+      "name": "Indian push ups",
+      "count": 20,
+      "exactMuscle": "Chest / Triceps / Shoulders",
+      "image": "",
+      "difficulty": "intermediate",
+      "musclePart": "Chest",
+      "instruction": "Indian push up is the best exercise for growing chest and shoulders muscles . It is also effect on triceps.",
+      "id": 78,
+      "route": "profile",
+      "status": "own"
+    },
+    {
+      "id": 2,
+      "name": "Push up",
+      "count": 8,
+      "difficulty": "beginner",
+      "musclePart": "Chest",
+      "exactMuscle": "Chest / Triceps / Shoulders",
+      "instruction": "Raising and lowering the body with the help of hands. Keep your body straight. This exercise works out the muscles of the chest , shoulders , triceps , back and legs",
+      "image": "/images/front-help-pushup.png",
+      "route": "ChestBeginner"
+    },
+    {
+      "id": 6,
+      "name": "Push-up with support in front",
+      "count": 8,
+      "difficulty": "beginner",
+      "musclePart": "Chest",
+      "exactMuscle": "Chest / Triceps / Shoulders",
+      "image": "/images/front-help-pushup.png",
+      "instruction": "The starting position is the usual push-up position, but with your hands on a chair or bench. Perform push-ups with the strength of your hands. Don 't forget to keep the body straight .",
+      "route": "ChestBeginner"
+    },
+    {
+      "id": 7,
+      "name": "Push-ups with emphasis on the knees",
+      "count": 8,
+      "difficulty": "beginner",
+      "musclePart": "Chest",
+      "exactMuscle": "Chest / Triceps / Shoulders",
+      "image": "/images/front-help-pushup.png",
+      "instruction": "The starting position is the usual push-up position, but with an emphasis on the knees and raised feet. Do push-ups.",
+      "route": "ChestBeginner"
+    },
+    {
+      "id": 23,
+      "name": "Indian push-ups",
+      "count": 12,
+      "difficulty": "advanced",
+      "musclePart": "Chest",
+      "exactMuscle": "Waist / Chest / Triceps / Buts ",
+      "image": "/images/Indian-pushup.jpg",
+      "instruction": "Starting position - hands and feet touch the floor, hips raised up. The position resembles an inverted letter V. Bend your arms at the elbows, lowering your body to the floor. When the body is close to the floor, lift the body as high as possible. Then return to the starting position.",
+      "route": "ChestAdvanced"
+    },
+    {
+      "id": 20,
+      "name": "Indian push-ups",
+      "count": 16,
+      "difficulty": "advanced",
+      "musclePart": "Chest",
+      "exactMuscle": "Waist / Chest / Triceps / Buts ",
+      "image": "/images/Indian-pushup.jpg",
+      "instruction": "Starting position - hands and feet touch the floor, hips raised up. The position resembles an inverted letter V. Bend your arms at the elbows, lowering your body to the floor. When the body is close to the floor, lift the body as high as possible. Then return to the starting position.",
+      "route": "ChestAdvanced"
+    },
+    {
+      "id": 21,
+      "name": "Push-ups with rotation",
+      "count": 12,
+      "difficulty": "advanced",
+      "musclePart": "Chest",
+      "exactMuscle": "Press / Chest / Triceps / Shoulders",
+      "image": "/images/Rotation-pushup.jpg",
+      "instruction": "Take the emphasis lying down . Perform a push-up. When lifting to the upper position, rotate the body and pull the right arm up. Repeat for the other hand. An excellent exercise for the chest muscles, shoulder girdle, arms and core muscles.",
+      "route": "ChestAdvanced"
+    },
+    {
+      "id": 18,
+      "name": "Berpi",
+      "count": 10,
+      "difficulty": "advanced",
+      "musclePart": "Chest",
+      "exactMuscle": "All body muscles",
+      "image": "/images/Allbody.jpg",
+      "instruction": "From a standing position, squat down and rest your hands on the ground. At the same time straighten your arms and legs and immediately return to the squatting position. Then jump up . <<Low start>> is an aerobic strength exercise for the muscles of the whole body.",
+      "route": "ChestAdvanced"
+    }
+  ],
+  "History": []
+}

@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
+Also you need to run localhost:4000 and localhost:4100 using these commands ` json-server --watch exercises.json --port 4000 and json-server --watch OEFH.json --port 4100 for using the app completely
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
